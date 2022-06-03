@@ -18,5 +18,6 @@ I learned how to refactor code into easier, global functions. Throughout the pro
 
 Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![git-p2](https://user-images.githubusercontent.com/105069118/171967510-b91132f4-b352-498b-8b1f-d856312ebaa1.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
